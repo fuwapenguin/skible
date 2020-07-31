@@ -1,4 +1,4 @@
-#Fri Jul 31 15:54:17 CEST 2020
+#Fri Jul 31 16:48:48 CEST 2020
 path.1=classes.dex
 path.0=classes.dex
 renamed.7=classes8.dex
@@ -9,14 +9,14 @@ renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.7=G\:\\Freelance\\CameraAppFiverr\\NewApp\\skible\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\out\\classes_5.dex
-base.6=G\:\\Freelance\\CameraAppFiverr\\NewApp\\skible\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\out\\classes_4.dex
-base.5=G\:\\Freelance\\CameraAppFiverr\\NewApp\\skible\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\out\\classes_3.dex
-base.4=G\:\\Freelance\\CameraAppFiverr\\NewApp\\skible\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\out\\classes_2.dex
-base.3=G\:\\Freelance\\CameraAppFiverr\\NewApp\\skible\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\out\\classes_1.dex
-base.2=G\:\\Freelance\\CameraAppFiverr\\NewApp\\skible\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\out\\classes_0.dex
-base.1=G\:\\Freelance\\CameraAppFiverr\\NewApp\\skible\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
-base.0=G\:\\Freelance\\CameraAppFiverr\\NewApp\\skible\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+base.7=G\:\\Freelance\\CameraAppFiverr\\AppGithub\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\out\\classes_5.dex
+base.6=G\:\\Freelance\\CameraAppFiverr\\AppGithub\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\out\\classes_4.dex
+base.5=G\:\\Freelance\\CameraAppFiverr\\AppGithub\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\out\\classes_3.dex
+base.4=G\:\\Freelance\\CameraAppFiverr\\AppGithub\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\out\\classes_2.dex
+base.3=G\:\\Freelance\\CameraAppFiverr\\AppGithub\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\out\\classes_1.dex
+base.2=G\:\\Freelance\\CameraAppFiverr\\AppGithub\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\out\\classes_0.dex
+base.1=G\:\\Freelance\\CameraAppFiverr\\AppGithub\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+base.0=G\:\\Freelance\\CameraAppFiverr\\AppGithub\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
 path.7=classes_5.dex
 path.6=classes_4.dex
 path.5=classes_3.dex

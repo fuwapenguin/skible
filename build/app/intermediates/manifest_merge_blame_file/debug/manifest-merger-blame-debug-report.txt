@@ -12,8 +12,8 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\debug\AndroidManifest.xml:6:5-66
-14-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\debug\AndroidManifest.xml:6:22-64
+14-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\debug\AndroidManifest.xml:6:5-66
+14-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\debug\AndroidManifest.xml:6:22-64
 15    <!--
 16     io.flutter.app.FlutterApplication is an android.app.Application that
 17         calls FlutterMain.startInitialization(this); in its onCreate method.
@@ -22,58 +22,58 @@
 20         FlutterApplication and put your custom class here.
 21    -->
 22    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-22-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:8:5-81
-22-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:8:22-78
+22-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:8:5-81
+22-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:8:22-78
 23    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-23-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:9:5-80
-23-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:9:22-77
+23-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:9:5-80
+23-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:9:22-77
 24    <uses-permission android:name="android.permission.CAMERA" />
-24-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:10:5-65
-24-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:10:22-62
+24-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:10:5-65
+24-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:10:22-62
 25    <uses-permission android:name="android.permission.FLASHLIGHT" />
-25-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:11:5-69
-25-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:11:22-66
+25-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:11:5-69
+25-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:11:22-66
 26    <uses-permission android:name="android.permission.WAKE_LOCK" />
-26-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:12:5-68
-26-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:12:22-65
+26-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:12:5-68
+26-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:12:22-65
 27
 28    <uses-feature android:name="android.hardware.camera" />
-28-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:13:5-60
-28-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:13:19-57
+28-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:13:5-60
+28-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:13:19-57
 29    <uses-feature android:name="android.hardware.camera.autofocus" />
-29-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:14:5-70
-29-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:14:19-67
+29-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:14:5-70
+29-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:14:19-67
 30    <uses-feature android:name="android.hardware.camera.flash" />
-30-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:15:5-66
-30-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:15:19-63
+30-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:15:5-66
+30-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:15:19-63
 31
 32    <application
-32-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:16:5-55:19
+32-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:16:5-55:19
 33        android:name="io.flutter.app.FlutterApplication"
-33-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:17:9-57
+33-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:17:9-57
 34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 34-->[androidx.core:core:1.1.0] C:\Users\fuwap\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:24:18-86
 35        android:debuggable="true"
 36        android:icon="@mipmap/ic_launcher"
-36-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:19:9-43
+36-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:19:9-43
 37        android:label="skible" >
-37-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:18:9-31
+37-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:18:9-31
 38        <activity
-38-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:20:9-49:20
+38-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:20:9-49:20
 39            android:name="com.hakunagroup.skible.MainActivity"
-39-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:21:13-41
+39-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:21:13-41
 40            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-40-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:25:13-163
+40-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:25:13-163
 41            android:hardwareAccelerated="true"
-41-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:26:13-47
+41-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:26:13-47
 42            android:launchMode="singleTop"
-42-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:22:13-43
+42-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:22:13-43
 43            android:screenOrientation="portrait"
-43-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:23:13-49
+43-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:23:13-49
 44            android:theme="@style/LaunchTheme"
-44-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:24:13-47
+44-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:24:13-47
 45            android:windowSoftInputMode="adjustResize" >
-45-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:27:13-55
+45-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:27:13-55
 46
 47            <!--
 48                 Specifies an Android theme to apply to this Activity as soon as
@@ -82,11 +82,11 @@
 51                 to determine the Window background behind the Flutter UI.
 52            -->
 53            <meta-data
-53-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:32:13-35:17
+53-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:32:13-35:17
 54                android:name="io.flutter.embedding.android.NormalTheme"
-54-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:33:15-70
+54-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:33:15-70
 55                android:resource="@style/NormalTheme" />
-55-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:34:15-52
+55-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:34:15-52
 56            <!--
 57                 Displays an Android View that continues showing the launch screen
 58                 Drawable until Flutter paints its first frame, then this splash
@@ -95,21 +95,21 @@
 61                 Flutter's first frame.
 62            -->
 63            <meta-data
-63-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:41:13-44:17
+63-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:41:13-44:17
 64                android:name="io.flutter.embedding.android.SplashScreenDrawable"
-64-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:42:15-79
+64-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:42:15-79
 65                android:resource="@drawable/launch_background" />
-65-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:43:15-61
+65-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:43:15-61
 66
 67            <intent-filter>
-67-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:45:13-48:29
+67-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:45:13-48:29
 68                <action android:name="android.intent.action.MAIN" />
-68-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:46:17-68
-68-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:46:25-66
+68-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:46:17-68
+68-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:46:25-66
 69
 70                <category android:name="android.intent.category.LAUNCHER" />
-70-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:47:17-76
-70-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:47:27-74
+70-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:47:17-76
+70-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:47:27-74
 71            </intent-filter>
 72        </activity>
 73        <!--
@@ -117,28 +117,28 @@
 75             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 76        -->
 77        <meta-data
-77-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:52:9-54:33
+77-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:52:9-54:33
 78            android:name="flutterEmbedding"
-78-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:53:13-44
+78-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:53:13-44
 79            android:value="2" />
-79-->G:\Freelance\CameraAppFiverr\NewApp\skible\android\app\src\main\AndroidManifest.xml:54:13-30
+79-->G:\Freelance\CameraAppFiverr\AppGithub\android\app\src\main\AndroidManifest.xml:54:13-30
 80
 81        <provider
-81-->[:image_picker] G:\Freelance\CameraAppFiverr\NewApp\skible\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-19:20
+81-->[:image_picker] G:\Freelance\CameraAppFiverr\AppGithub\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-19:20
 82            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-82-->[:image_picker] G:\Freelance\CameraAppFiverr\NewApp\skible\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-82
+82-->[:image_picker] G:\Freelance\CameraAppFiverr\AppGithub\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-82
 83            android:authorities="com.hakunagroup.skible.flutter.image_provider"
-83-->[:image_picker] G:\Freelance\CameraAppFiverr\NewApp\skible\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-74
+83-->[:image_picker] G:\Freelance\CameraAppFiverr\AppGithub\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-74
 84            android:exported="false"
-84-->[:image_picker] G:\Freelance\CameraAppFiverr\NewApp\skible\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
+84-->[:image_picker] G:\Freelance\CameraAppFiverr\AppGithub\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
 85            android:grantUriPermissions="true" >
-85-->[:image_picker] G:\Freelance\CameraAppFiverr\NewApp\skible\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-47
+85-->[:image_picker] G:\Freelance\CameraAppFiverr\AppGithub\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-47
 86            <meta-data
-86-->[:image_picker] G:\Freelance\CameraAppFiverr\NewApp\skible\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-18:75
+86-->[:image_picker] G:\Freelance\CameraAppFiverr\AppGithub\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-18:75
 87                android:name="android.support.FILE_PROVIDER_PATHS"
-87-->[:image_picker] G:\Freelance\CameraAppFiverr\NewApp\skible\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-67
+87-->[:image_picker] G:\Freelance\CameraAppFiverr\AppGithub\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-67
 88                android:resource="@xml/flutter_image_picker_file_paths" />
-88-->[:image_picker] G:\Freelance\CameraAppFiverr\NewApp\skible\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-72
+88-->[:image_picker] G:\Freelance\CameraAppFiverr\AppGithub\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-72
 89        </provider>
 90
 91        <activity
