@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color light_blank
+color red
+color selected_option
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+drawable launch_background
+id cameraFragment
+id imgSurface
+layout activity_camera
+layout fragment_camera
+mipmap ic_launcher
+string app_name
+string file_limit_size_upload_format
+style AppTheme
+style LaunchTheme

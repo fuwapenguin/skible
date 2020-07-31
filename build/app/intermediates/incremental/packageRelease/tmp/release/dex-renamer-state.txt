@@ -1,0 +1,4 @@
+#Wed Jul 29 22:15:25 CEST 2020
+base.0=G\:\\Freelance\\CameraAppFiverr\\NewApp\\skible\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
