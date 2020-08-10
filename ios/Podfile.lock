@@ -1,0 +1,53 @@
+PODS:
+  - adv_camera (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - gallery_saver (0.0.1):
+    - Flutter
+  - image_picker (0.0.1):
+    - Flutter
+  - path_provider (0.0.1):
+    - Flutter
+  - TensorFlowLiteC (2.2.0)
+  - tflite (1.1.1):
+    - Flutter
+    - TensorFlowLiteC
+
+DEPENDENCIES:
+  - adv_camera (from `.symlinks/plugins/adv_camera/ios`)
+  - Flutter (from `Flutter`)
+  - gallery_saver (from `.symlinks/plugins/gallery_saver/ios`)
+  - image_picker (from `.symlinks/plugins/image_picker/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - tflite (from `.symlinks/plugins/tflite/ios`)
+
+SPEC REPOS:
+  trunk:
+    - TensorFlowLiteC
+
+EXTERNAL SOURCES:
+  adv_camera:
+    :path: ".symlinks/plugins/adv_camera/ios"
+  Flutter:
+    :path: Flutter
+  gallery_saver:
+    :path: ".symlinks/plugins/gallery_saver/ios"
+  image_picker:
+    :path: ".symlinks/plugins/image_picker/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  tflite:
+    :path: ".symlinks/plugins/tflite/ios"
+
+SPEC CHECKSUMS:
+  adv_camera: 0e954c22d5a993a38ecce7581ade87ecf5660523
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  gallery_saver: 9fc173c9f4fcc48af53b2a9ebea1b643255be542
+  image_picker: 9c3312491f862b28d21ecd8fdf0ee14e601b3f09
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+  TensorFlowLiteC: b3ab9e867b0b71052ca102a32a786555b330b02e
+  tflite: f0403a894740019d63ab5662253bba5b2dd37296
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.9.3
