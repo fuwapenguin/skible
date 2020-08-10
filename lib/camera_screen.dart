@@ -130,11 +130,15 @@ class _CameraScreenState extends State<CameraScreen> {
         isOk = await runGoogleCloudModel(File(imagePath));
       }
     } on SocketException catch (_) {
-      //Local ML model
-      print(imagePath);
-      isOk = await runModel(imagePath);
     }
     finally {
+      
+      if(isOk == null) {
+        //Local ML model
+        print(imagePath);
+        isOk = await runModel(imagePath);
+      }
+
       await pr.hide();
       if (isOk) {
         setState(() {
@@ -145,11 +149,15 @@ class _CameraScreenState extends State<CameraScreen> {
         setState(() {
           _canWork = true;
         });
-        showDialog(
+        await showDialog(
             context: context2,
-            builder: (BuildContext context) => UnsafeDialog());
+            builder: (BuildContext context) => UnsafeDialog()).then((value) {
+          cameraController.setPreviewRatio(CameraPreviewRatio.r16_9);
+          cameraController.setSessionPreset(CameraSessionPreset.photo);
+        });
         final dir = Directory(imagePath);
         dir.deleteSync(recursive: true);
+        imagePath = '';
       }
 
       if(isFrontCamera) {
@@ -193,7 +201,7 @@ class _CameraScreenState extends State<CameraScreen> {
   Future<bool> runModel(String path) async {
     //load the model
     await Tflite.loadModel(
-        model: "assets/model/nsfw.tflite", labels: "assets/model/labels.txt", useGpuDelegate: true, numThreads: 2);
+        model: "assets/model/nsfw.tflite", labels: "assets/model/labels.txt");
 
     //get the result from the model
     var output = await Tflite.runModelOnImage(
@@ -214,6 +222,7 @@ class _CameraScreenState extends State<CameraScreen> {
     } else {
       check = false;
     }
+    print("result: $check");
     return check;
   }
 
@@ -492,13 +501,13 @@ class _CameraScreenState extends State<CameraScreen> {
           ),
         ),
       ),
-      SizedBox(
+      cameraIsSwitching ? SizedBox(
         height: size.height,
         width: size.width,
         child: Material(
           color: cameraIsSwitching ? Colors.black : Colors.transparent,
         ),
-      ),
+      ) : SizedBox(height: 0, width: 0,),
       upBar,
       torchButton,
       settingButton,

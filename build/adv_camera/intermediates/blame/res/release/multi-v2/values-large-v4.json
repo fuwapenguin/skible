@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "G:\\Freelance\\CameraAppFiverr\\NewApp\\skible\\build\\adv_camera\\intermediates\\res\\merged\\release\\values-large-v4\\values-large-v4.xml",
+            "outputFile": "G:\\Freelance\\CameraAppFiverr\\AppGithub\\build\\adv_camera\\intermediates\\res\\merged\\release\\values-large-v4\\values-large-v4.xml",
             "map": [
                 {
                     "source": "C:\\Users\\fuwap\\.gradle\\caches\\transforms-2\\files-2.1\\db2388f0fe5e05a7a168e5a9c11e912f\\material-1.0.0\\res\\values-large-v4\\values-large-v4.xml",
@@ -33,7 +33,7 @@
             ]
         },
         {
-            "outputFile": "G:\\Freelance\\CameraAppFiverr\\NewApp\\skible\\build\\adv_camera\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "outputFile": "G:\\Freelance\\CameraAppFiverr\\AppGithub\\build\\adv_camera\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
             "map": [
                 {
                     "source": "C:\\Users\\fuwap\\.gradle\\caches\\transforms-2\\files-2.1\\db2388f0fe5e05a7a168e5a9c11e912f\\material-1.0.0\\res\\values-large-v4\\values-large-v4.xml",

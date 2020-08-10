@@ -1,12 +1,12 @@
-# Referenced at G:\Freelance\CameraAppFiverr\NewApp\skible\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:27
+# Referenced at G:\Freelance\CameraAppFiverr\AppGithub\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:28
 -keep class androidx.core.app.CoreComponentFactory { <init>(); }
-# Referenced at G:\Freelance\CameraAppFiverr\NewApp\skible\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:32
+# Referenced at G:\Freelance\CameraAppFiverr\AppGithub\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:33
 -keep class com.hakunagroup.skible.MainActivity { <init>(); }
-# Referenced at G:\Freelance\CameraAppFiverr\NewApp\skible\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:85
+# Referenced at G:\Freelance\CameraAppFiverr\AppGithub\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:86
 -keep class com.karumi.dexter.DexterActivity { <init>(); }
-# Referenced at G:\Freelance\CameraAppFiverr\NewApp\skible\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:27
+# Referenced at G:\Freelance\CameraAppFiverr\AppGithub\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:28
 -keep class io.flutter.app.FlutterApplication { <init>(); }
-# Referenced at G:\Freelance\CameraAppFiverr\NewApp\skible\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:75
+# Referenced at G:\Freelance\CameraAppFiverr\AppGithub\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:76
 -keep class io.flutter.plugins.imagepicker.ImagePickerFileProvider { <init>(); }
 # Referenced at C:\Users\fuwap\.gradle\caches\transforms-2\files-2.1\dd2ecfcfb369a2f0046b9c1c6d80939e\appcompat-1.0.2\res\layout\abc_alert_dialog_title_material.xml:56
 # Referenced at C:\Users\fuwap\.gradle\caches\transforms-2\files-2.1\dd2ecfcfb369a2f0046b9c1c6d80939e\appcompat-1.0.2\res\layout\abc_alert_dialog_material.xml:52
@@ -98,9 +98,9 @@
 # Referenced at C:\Users\fuwap\.gradle\caches\transforms-2\files-2.1\db2388f0fe5e05a7a168e5a9c11e912f\material-1.0.0\res\layout\design_layout_snackbar_include.xml:18
 -keep class com.google.android.material.snackbar.SnackbarContentLayout { <init>(...); }
 
-# Referenced at G:\Freelance\CameraAppFiverr\NewApp\skible\build\adv_camera\intermediates\packaged_res\release\layout\activity_camera.xml:8
+# Referenced at G:\Freelance\CameraAppFiverr\AppGithub\build\adv_camera\intermediates\packaged_res\release\layout\activity_camera.xml:8
 -keep class com.ric.adv_camera.CameraFragment { <init>(...); }
 
-# Referenced at G:\Freelance\CameraAppFiverr\NewApp\skible\build\adv_camera\intermediates\packaged_res\release\layout\fragment_camera.xml:5
+# Referenced at G:\Freelance\CameraAppFiverr\AppGithub\build\adv_camera\intermediates\packaged_res\release\layout\fragment_camera.xml:5
 -keep class com.ric.adv_camera.CustomSurfaceView { <init>(...); }
 

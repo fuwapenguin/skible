@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "G:\\Freelance\\CameraAppFiverr\\NewApp\\skible\\build\\adv_camera\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-eu\\values-eu.xml",
+            "outputFile": "G:\\Freelance\\CameraAppFiverr\\AppGithub\\build\\adv_camera\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-eu\\values-eu.xml",
             "map": [
                 {
                     "source": "C:\\Users\\fuwap\\.gradle\\caches\\transforms-2\\files-2.1\\dd2ecfcfb369a2f0046b9c1c6d80939e\\appcompat-1.0.2\\res\\values-eu\\values-eu.xml",
@@ -33,7 +33,7 @@
             ]
         },
         {
-            "outputFile": "G:\\Freelance\\CameraAppFiverr\\NewApp\\skible\\build\\adv_camera\\intermediates\\res\\merged\\release\\values-eu\\values-eu.xml",
+            "outputFile": "G:\\Freelance\\CameraAppFiverr\\AppGithub\\build\\adv_camera\\intermediates\\res\\merged\\release\\values-eu\\values-eu.xml",
             "map": [
                 {
                     "source": "C:\\Users\\fuwap\\.gradle\\caches\\transforms-2\\files-2.1\\dd2ecfcfb369a2f0046b9c1c6d80939e\\appcompat-1.0.2\\res\\values-eu\\values-eu.xml",

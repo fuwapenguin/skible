@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "G:\\Freelance\\CameraAppFiverr\\NewApp\\skible\\build\\flutter_plugin_android_lifecycle\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
+            "outputFile": "G:\\Freelance\\CameraAppFiverr\\AppGithub\\build\\flutter_plugin_android_lifecycle\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
             "map": [
                 {
                     "source": "C:\\Users\\fuwap\\.gradle\\caches\\transforms-2\\files-2.1\\a528b13ac93e64cafa3d0480e2c93207\\core-1.1.0\\res\\values-fr-rCA\\values-fr-rCA.xml",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "outputFile": "G:\\Freelance\\CameraAppFiverr\\NewApp\\skible\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\values-fr-rCA\\values-fr-rCA.xml",
+            "outputFile": "G:\\Freelance\\CameraAppFiverr\\AppGithub\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\values-fr-rCA\\values-fr-rCA.xml",
             "map": [
                 {
                     "source": "C:\\Users\\fuwap\\.gradle\\caches\\transforms-2\\files-2.1\\a528b13ac93e64cafa3d0480e2c93207\\core-1.1.0\\res\\values-fr-rCA\\values-fr-rCA.xml",

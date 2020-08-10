@@ -1,7 +1,7 @@
 # compiler: R8
 # compiler_version: 1.5.64
 # min_api: 21
-# pg_map_id: 240ba63
+# pg_map_id: d6c7c6d
 android.support.v4.media.MediaBrowserCompat$CustomActionCallback -> android.support.v4.media.a:
     void onError(java.lang.String,android.os.Bundle,android.os.Bundle) -> a
     void onProgressUpdate(java.lang.String,android.os.Bundle,android.os.Bundle) -> b
@@ -10510,7 +10510,8 @@ org.tensorflow.lite.Interpreter -> org.tensorflow.lite.c:
     void checkNotClosed() -> b
     org.tensorflow.lite.Tensor getOutputTensor(int) -> b
 org.tensorflow.lite.Interpreter$Options -> org.tensorflow.lite.c$a:
-    java.util.List delegates -> e
+    java.lang.Boolean useXNNPACK -> e
+    java.util.List delegates -> f
     java.lang.Boolean allowFp16PrecisionForFp32 -> c
     java.lang.Boolean allowBufferHandleOutput -> d
     int numThreads -> a
@@ -10533,6 +10534,7 @@ org.tensorflow.lite.NativeInterpreterWrapper -> org.tensorflow.lite.NativeInterp
     void init(long,long,org.tensorflow.lite.Interpreter$Options) -> a
     org.tensorflow.lite.Delegate maybeCreateFlexDelegate(java.util.List) -> a
     void resizeInput(int,int[]) -> a
+    void resizeInput(int,int[],boolean) -> a
     void run(java.lang.Object[],java.util.Map) -> a
     org.tensorflow.lite.Tensor getOutputTensor(int) -> b
 org.tensorflow.lite.Tensor -> org.tensorflow.lite.Tensor:
@@ -10547,18 +10549,19 @@ org.tensorflow.lite.Tensor -> org.tensorflow.lite.Tensor:
     org.tensorflow.lite.DataType dataType() -> b
     int[] getInputShapeIfDifferent(java.lang.Object) -> b
     void setTo(java.nio.Buffer) -> b
-    int numBytes() -> c
+    java.lang.String name() -> c
     void setTo(java.lang.Object) -> c
     int computeNumDimensions(java.lang.Object) -> d
-    void refreshShape() -> d
+    int numBytes() -> d
     int[] computeShapeOf(java.lang.Object) -> e
-    int[] shape() -> e
-    java.nio.ByteBuffer buffer() -> f
+    void refreshShape() -> e
     org.tensorflow.lite.DataType dataTypeOf(java.lang.Object) -> f
+    int[] shape() -> f
+    java.nio.ByteBuffer buffer() -> g
     boolean isBuffer(java.lang.Object) -> g
     boolean isByteBuffer(java.lang.Object) -> h
-    void throwIfDataIsIncompatible(java.lang.Object) -> i
-    void throwIfShapeIsIncompatible(java.lang.Object) -> j
+    void throwIfDstShapeIsIncompatible(java.lang.Object) -> i
+    void throwIfSrcShapeIsIncompatible(java.lang.Object) -> j
     void throwIfTypeIsIncompatible(java.lang.Object) -> k
 org.tensorflow.lite.Tensor$QuantizationParams -> org.tensorflow.lite.Tensor$a:
 org.tensorflow.lite.TensorFlowLite -> org.tensorflow.lite.TensorFlowLite:
@@ -10571,12 +10574,15 @@ org.tensorflow.lite.gpu.GpuDelegate -> org.tensorflow.lite.gpu.GpuDelegate:
     long getNativeHandle() -> a
 org.tensorflow.lite.gpu.GpuDelegate$Options -> org.tensorflow.lite.gpu.GpuDelegate$a:
     boolean precisionLossAllowed -> a
-    int inferencePreference -> b
+    boolean quantizedModelsAllowed -> b
+    int inferencePreference -> c
 org.tensorflow.lite.nnapi.NnApiDelegate -> org.tensorflow.lite.nnapi.NnApiDelegate:
     long delegateHandle -> e
     long getNativeHandle() -> a
 org.tensorflow.lite.nnapi.NnApiDelegate$Options -> org.tensorflow.lite.nnapi.NnApiDelegate$a:
+    java.lang.Boolean allowFp16 -> g
     java.lang.Integer maxDelegatedPartitions -> e
+    java.lang.Boolean useNnapiCpu -> f
     java.lang.String cacheDir -> c
     java.lang.String acceleratorName -> b
     int executionPreference -> a
@@ -10586,6 +10592,8 @@ org.tensorflow.lite.nnapi.NnApiDelegate$Options -> org.tensorflow.lite.nnapi.NnA
     java.lang.String access$200(org.tensorflow.lite.nnapi.NnApiDelegate$Options) -> c
     java.lang.String access$300(org.tensorflow.lite.nnapi.NnApiDelegate$Options) -> d
     java.lang.Integer access$400(org.tensorflow.lite.nnapi.NnApiDelegate$Options) -> e
+    java.lang.Boolean access$500(org.tensorflow.lite.nnapi.NnApiDelegate$Options) -> f
+    java.lang.Boolean access$600(org.tensorflow.lite.nnapi.NnApiDelegate$Options) -> g
 sq.flutter.tflite.TflitePlugin -> g.a.a.a:
     org.tensorflow.lite.Interpreter tfLite -> f
     java.lang.String[][] poseChain -> l

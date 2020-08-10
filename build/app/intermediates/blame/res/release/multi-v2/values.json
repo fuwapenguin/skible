@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "G:\\Freelance\\CameraAppFiverr\\NewApp\\skible\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "outputFile": "G:\\Freelance\\CameraAppFiverr\\AppGithub\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\fuwap\\.gradle\\caches\\transforms-2\\files-2.1\\a722f7742f3f6d8bbfd4822beeefff87\\cardview-1.0.0\\res\\values\\values.xml",
@@ -78,6 +78,25 @@
                     }
                 },
                 {
+                    "source": "G:\\Freelance\\CameraAppFiverr\\AppGithub\\build\\adv_camera\\intermediates\\packaged_res\\release\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,148,199,245,283,333,391,447,499,586",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,17",
+                        "endColumns": "45,46,50,45,37,49,57,55,51,86,12",
+                        "endOffsets": "96,143,194,240,278,328,386,442,494,581,898"
+                    },
+                    "to": {
+                        "startLines": "67,68,69,91,123,130,212,213,488,495,514",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "4209,4255,4302,5797,7876,8325,13899,13957,30958,31796,33762",
+                        "endLines": "67,68,69,91,123,130,212,213,488,495,519",
+                        "endColumns": "45,46,50,45,37,49,57,55,51,86,12",
+                        "endOffsets": "4250,4297,4348,5838,7909,8370,13952,14008,31005,31878,34074"
+                    }
+                },
+                {
                     "source": "C:\\Users\\fuwap\\.gradle\\caches\\transforms-2\\files-2.1\\020c8d85643fb92609fdfebb3d8ffa2c\\dexter-6.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "3",
@@ -94,6 +113,25 @@
                         "endLines": "1950",
                         "endColumns": "10",
                         "endOffsets": "126855"
+                    }
+                },
+                {
+                    "source": "G:\\Freelance\\CameraAppFiverr\\AppGithub\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "137,791",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "433,953"
+                    },
+                    "to": {
+                        "startLines": "1951,1956",
+                        "startColumns": "4,4",
+                        "startOffsets": "126860,127157",
+                        "endLines": "1955,1958",
+                        "endColumns": "12,12",
+                        "endOffsets": "127152,127317"
                     }
                 },
                 {
@@ -135,25 +173,6 @@
                     }
                 },
                 {
-                    "source": "G:\\Freelance\\CameraAppFiverr\\NewApp\\skible\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "137,791",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "433,953"
-                    },
-                    "to": {
-                        "startLines": "1951,1956",
-                        "startColumns": "4,4",
-                        "startOffsets": "126860,127157",
-                        "endLines": "1955,1958",
-                        "endColumns": "12,12",
-                        "endOffsets": "127152,127317"
-                    }
-                },
-                {
                     "source": "C:\\Users\\fuwap\\.gradle\\caches\\transforms-2\\files-2.1\\6d35bbbe327ef689c582d1173367f0ed\\media-1.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,5,6,7,8,10,11,12,13,14",
@@ -168,25 +187,6 @@
                         "startOffsets": "7199,22473,22526,22579,22632,147181,147357,147479,147741,147936",
                         "endColumns": "88,52,52,52,52,65,121,60,65,66",
                         "endOffsets": "7283,22521,22574,22627,22680,147242,147474,147535,147802,147998"
-                    }
-                },
-                {
-                    "source": "G:\\Freelance\\CameraAppFiverr\\NewApp\\skible\\build\\adv_camera\\intermediates\\packaged_res\\release\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,101,148,199,245,283,333,391,447,499,586",
-                        "endLines": "2,3,4,5,6,7,8,9,10,11,17",
-                        "endColumns": "45,46,50,45,37,49,57,55,51,86,12",
-                        "endOffsets": "96,143,194,240,278,328,386,442,494,581,898"
-                    },
-                    "to": {
-                        "startLines": "67,68,69,91,123,130,212,213,488,495,514",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "4209,4255,4302,5797,7876,8325,13899,13957,30958,31796,33762",
-                        "endLines": "67,68,69,91,123,130,212,213,488,495,519",
-                        "endColumns": "45,46,50,45,37,49,57,55,51,86,12",
-                        "endOffsets": "4250,4297,4348,5838,7909,8370,13952,14008,31005,31878,34074"
                     }
                 },
                 {
