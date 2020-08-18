@@ -6,9 +6,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c3af69b-50d5-4a0a-b29c-c27e075dd983" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/014fd14a0ac17c558538996dafe67bb2/.filecache" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/014fd14a0ac17c558538996dafe67bb2/.filecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/014fd14a0ac17c558538996dafe67bb2/app.dill" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/014fd14a0ac17c558538996dafe67bb2/app.dill" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/app.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/apk/app.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/app.apk.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/apk/app.apk.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/release/app-release.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/camera_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/camera_screen.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,32 +81,32 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1135" y="465" key="AndroidProcessChooserDialog/0.0.2560.1400/-2560.0.2560.1440/2560.0.4096.2160@0.0.2560.1400" timestamp="1596181866159" />
-    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1596214088318">
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1597413207578">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400/-2560.0.2560.1440/2560.0.4096.2160@0.0.2560.1400" timestamp="1596214088318" />
-    <state width="2517" height="398" key="GridCell.Tab.0.bottom" timestamp="1596876441823">
+    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400/-2560.0.2560.1440/2560.0.4096.2160@0.0.2560.1400" timestamp="1597413207578" />
+    <state width="2500" height="395" key="GridCell.Tab.0.bottom" timestamp="1597772016175">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="399" key="GridCell.Tab.0.bottom/-2560.0.2560.1400/0.0.2560.1400/2560.0.4096.2160@0.0.2560.1400" timestamp="1596621943014" />
+    <state width="2500" height="395" key="GridCell.Tab.0.bottom/-2560.0.2560.1400/0.0.2560.1400/2560.0.4096.2160@0.0.2560.1400" timestamp="1597772016175" />
     <state width="2500" height="396" key="GridCell.Tab.0.bottom/0.0.2560.1400/-2560.0.2560.1440/2560.0.4096.2160@0.0.2560.1400" timestamp="1596740165496" />
     <state width="2517" height="398" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.4096.2160/-2560.0.2560.1440@0.0.2560.1400" timestamp="1596876441823" />
-    <state width="2517" height="398" key="GridCell.Tab.0.center" timestamp="1596876441823">
+    <state width="2500" height="395" key="GridCell.Tab.0.center" timestamp="1597772016175">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="399" key="GridCell.Tab.0.center/-2560.0.2560.1400/0.0.2560.1400/2560.0.4096.2160@0.0.2560.1400" timestamp="1596621943014" />
+    <state width="2500" height="395" key="GridCell.Tab.0.center/-2560.0.2560.1400/0.0.2560.1400/2560.0.4096.2160@0.0.2560.1400" timestamp="1597772016175" />
     <state width="2500" height="396" key="GridCell.Tab.0.center/0.0.2560.1400/-2560.0.2560.1440/2560.0.4096.2160@0.0.2560.1400" timestamp="1596740165496" />
     <state width="2517" height="398" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.4096.2160/-2560.0.2560.1440@0.0.2560.1400" timestamp="1596876441823" />
-    <state width="2517" height="398" key="GridCell.Tab.0.left" timestamp="1596876441823">
+    <state width="2500" height="395" key="GridCell.Tab.0.left" timestamp="1597772016175">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="399" key="GridCell.Tab.0.left/-2560.0.2560.1400/0.0.2560.1400/2560.0.4096.2160@0.0.2560.1400" timestamp="1596621943013" />
+    <state width="2500" height="395" key="GridCell.Tab.0.left/-2560.0.2560.1400/0.0.2560.1400/2560.0.4096.2160@0.0.2560.1400" timestamp="1597772016175" />
     <state width="2500" height="396" key="GridCell.Tab.0.left/0.0.2560.1400/-2560.0.2560.1440/2560.0.4096.2160@0.0.2560.1400" timestamp="1596740165496" />
     <state width="2517" height="398" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.4096.2160/-2560.0.2560.1440@0.0.2560.1400" timestamp="1596876441823" />
-    <state width="2517" height="398" key="GridCell.Tab.0.right" timestamp="1596876441823">
+    <state width="2500" height="395" key="GridCell.Tab.0.right" timestamp="1597772016175">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="399" key="GridCell.Tab.0.right/-2560.0.2560.1400/0.0.2560.1400/2560.0.4096.2160@0.0.2560.1400" timestamp="1596621943014" />
+    <state width="2500" height="395" key="GridCell.Tab.0.right/-2560.0.2560.1400/0.0.2560.1400/2560.0.4096.2160@0.0.2560.1400" timestamp="1597772016175" />
     <state width="2500" height="396" key="GridCell.Tab.0.right/0.0.2560.1400/-2560.0.2560.1440/2560.0.4096.2160@0.0.2560.1400" timestamp="1596740165496" />
     <state width="2517" height="398" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.4096.2160/-2560.0.2560.1440@0.0.2560.1400" timestamp="1596876441823" />
     <state x="781" y="342" key="SettingsEditor" timestamp="1596209168684">

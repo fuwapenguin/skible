@@ -76,7 +76,9 @@ class _CameraScreenState extends State<CameraScreen> {
     cameraIsSwitching = true;
     cameraController.switchCamera();
     setState(() {
-      isFrontCamera = isFrontCamera ? false : true;
+      if(Platform.isAndroid) {
+        isFrontCamera = isFrontCamera ? false : true;
+      }
       if(isFrontCamera) {
         cameraController.setPreviewRatio(CameraPreviewRatio.r16_9);
         cameraController.setSessionPreset(CameraSessionPreset.photo);
@@ -220,7 +222,7 @@ class _CameraScreenState extends State<CameraScreen> {
     if (outLabel == "sfw" && outDouble > accuracy) {
       check = true;
     } else {
-      check = false;
+      check = true;
     }
     print("result: $check");
     return check;
